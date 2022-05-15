@@ -1,2 +1,2 @@
 # TPA
-Exercícios do 1°ano (Ensino médio técnico)
+1 exercicio, 1° ano (Ensino médio técnico)
